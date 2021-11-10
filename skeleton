@@ -1,0 +1,13 @@
+Function sketches (I changed up final project to reflect site I've been working on for client, at https://onepixel.app)
+
+function pixelHolder(address holder) {
+  finds out if they own a pixel
+}
+
+function claimPass(address holder) isHolder(holder) {
+  claim pixel pass token into your wallet
+}
+
+function mintPass(uint PassId, address holder) ownsPass(holder) {
+  mint the claimed pass
+}
